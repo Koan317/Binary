@@ -1,0 +1,4 @@
+﻿  Test.cpp
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+Test.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  Binary.vcxproj -> C:\Users\gulon\Documents\Visual Studio 2017\Projects\Binary\Debug\Binary.exe
